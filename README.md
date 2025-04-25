@@ -22,6 +22,8 @@
 - AWS Core Services (EC2, S3, Lambda)
 - Serverless Architectures
 - Cloud Deployment & Management
+- Docker (Containerization, Orchestration)
+- Terraform (Infrastructure as Code, Cloud Provisioning)
 
 **AI/ML:**
 - LangChain
